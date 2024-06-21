@@ -1,5 +1,21 @@
-<h1> Currency converter </h1>
+# Currency Converter
+Alura Backend challenge
 
-<p> by Floware </p>
-<br/>
-<p> Alura Backend Currency converter challenge</p>
+## Getting Started
+
+-Pull the project
+-Run main.java
+-Select a currency to convert from 
+-Select a currency to convert to
+-Enjoy!
+
+### Prerequisites
+
+All you need is a java compiler
+
+
+
+## Authors
+
+* **Rafael Flores** - [FlowareR](https://github.com/FloWareR)
+
