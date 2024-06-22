@@ -11,7 +11,8 @@ Alura Backend challenge
 
 ### Prerequisites
 
-All you need is a java compiler & the gson package
+-Java Compiler
+-GSON package
 
 ### Currency Code Names
 
