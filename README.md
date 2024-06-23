@@ -7,7 +7,7 @@ Alura Backend challenge
 -Run main.java\
 -Select a currency to convert from\
 -Select a currency to convert to\
--Enjoy!\
+-Enjoy!
 
 ### Prerequisites
 
